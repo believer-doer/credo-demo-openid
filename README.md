@@ -27,13 +27,13 @@ These are the steps for running the Credo OpenID4VC demo:
 Clone the Credo git repository:
 
 ```sh
-git clone https://github.com/openwallet-foundation/credo-ts.git
+git clone https://github.com/openwallet-foundation/credo-demo-openid.git
 ```
 
-Open four different terminals next to each other and in each, go to the demo folder:
+Open four different terminals next to each other and in each, go to the credo-demo-openid folder:
 
 ```sh
-cd credo-ts/demo-openid
+cd credo-demo-openid
 ```
 
 Install the project in one of the terminals:
